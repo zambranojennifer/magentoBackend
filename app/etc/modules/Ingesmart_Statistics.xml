@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Ingesmart_Statistics>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Ingesmart_Statistics>
+    </modules>
+</config>
